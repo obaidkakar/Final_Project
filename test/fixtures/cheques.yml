@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Cheque_no: 1
+  Bank_name: MyString
+  ch_date: 2016-12-14
+
+two:
+  Cheque_no: 1
+  Bank_name: MyString
+  ch_date: 2016-12-14
